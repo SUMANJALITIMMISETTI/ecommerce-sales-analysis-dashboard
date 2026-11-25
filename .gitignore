@@ -1,0 +1,15 @@
+# Large dataset raw and full archives
+dataset/raw/
+dataset/cleaned/dim_geolocation.csv
+*.zip
+*.tar.gz
+*.log
+
+# Python cache & env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Power BI auto-save / temp
+*.pbit
